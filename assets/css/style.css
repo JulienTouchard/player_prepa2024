@@ -1,0 +1,12 @@
+img{
+    width: 100%;
+}
+
+#navmenu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#navmenu div{
+    width: 60px;
+}
